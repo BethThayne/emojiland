@@ -6,8 +6,8 @@ a user input of columns and rows to define the size.
 The save_to_file file uses the generate_land functions and saves the outputs as .txt files
 in an outputs folder.
 
-The patterns use the Perlin noise library for texturing. 
-The Termcolor library is used for simple (quick and dirty) colouring of the inputs for better usability. 
+The patterns use the [Perlin noise](https://pypi.org/project/noise/) library for texturing. 
+The [Termcolor](https://pypi.org/project/termcolor/) library is used for simple (quick and dirty) colouring of the inputs for better usability. 
 
 # Installing / Getting started
 

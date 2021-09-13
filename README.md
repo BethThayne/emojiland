@@ -17,15 +17,17 @@ This project uses the latest version of Python (3.9.7). Follow instructions for 
 
 Run the following on your terminal:
 
-git clone https://github.com/BethThayne/emojiland
-cd emojiland
+`git clone https://github.com/BethThayne/emojiland`
+
+`cd emojiland`
 
 Open the code on your code editor - you can do this from your terminal if you have shell commands set up.
 
 The following libraries need to be installed
 
-python3 -m pip install termcolor
-python3 -m pip install noise
+`python3 -m pip install termcolor` 
+
+`python3 -m pip install noise`
 
 
 You should be able to run this programme in your local environment/code editor/terminal.

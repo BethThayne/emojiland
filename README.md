@@ -27,3 +27,5 @@ The following libraries need to be installed
 python3 -m pip install termcolor
 python3 -m pip install noise
 
+
+You should be able to run this programme in your local environment/code editor/terminal.
